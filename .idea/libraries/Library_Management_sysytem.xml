@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Library_Management_sysytem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Library_Management_sysytem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
